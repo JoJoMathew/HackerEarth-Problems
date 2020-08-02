@@ -1,24 +1,28 @@
-#Read from STDIN, Write to STDOUT
+# Read from STDIN, Write to STDOUT
 Read different types of data from standard input, process them as shown in output format and print the answer to standard output.
 
-##Input format:
+## Input format:
 First line contains integer N.
 Second line contains string S.
 
-##Output format:
+## Output format:
 First line should contain N x 2.
 Second line should contain the same string S.
 
 
 
 
-RESULT: 
+## RESULT: 
 Accepted
-Score 
+
+## Score 
 10.0
-Time (sec) 
+
+## Time (sec) 
 0.10118
-Memory (KiB)
+
+## Memory (KiB)
 64
-Language
+
+## Language
 Java 8
