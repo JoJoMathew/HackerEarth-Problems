@@ -11,7 +11,6 @@ class TestClass {
         //BufferedReader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input = br.readLine();                // Reading input from STDIN
-
         StringBuffer newStr=new StringBuffer(input);    
 
          for(int i = 0; i < input.length(); i++) { 
