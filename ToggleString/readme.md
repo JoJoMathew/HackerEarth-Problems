@@ -8,3 +8,19 @@ Print the resultant String on a single line.
 
 ## Constraints
  1< S < 100 where S denotes the length of string S.
+ 
+### RESULT 
+Accepted
+
+### Score 
+10.0
+
+ 
+### Time (sec)
+0.40663
+
+### Memory (KiB)
+64
+
+### Language
+Java 8
